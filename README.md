@@ -3,7 +3,7 @@
 
 This application has collection of  Computer Science Lab Programs. Video Lectures. DU's Books. Short Notes Previous year Question papers & Solutions absolutely FREE
 
-<img src="post.PNG" alt="" width="600" height="350" />
+<img src="post.PNG" alt="center" width="600" height="285" />
 
 <a href="https://play.google.com/store/apps/details?id=com.vimal.vkide">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width = 225/>
