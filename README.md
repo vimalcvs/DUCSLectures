@@ -5,7 +5,7 @@ This application has collection of  Computer Science Lab Programs. Video Lecture
 
 <img src="post.PNG" alt="center" width="600" height="285" />
 
-<a href="https://play.google.com/store/apps/details?id=com.vimal.vkide">
+<a href="https://play.google.com/store/apps/details?id=com.ducslectures.vimal.ducslectures">
 <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width = 225/>
 </a>
 
