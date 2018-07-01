@@ -3,6 +3,15 @@
 
 This application has collection of  Computer Science Lab Programs. Video Lectures. DU's Books. Short Notes Previous year Question papers & Solutions absolutely FREE
 
+![Image](post.png)
+
+<a href="https://play.google.com/store/apps/details?id=com.vimal.vkide">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width = 225/>
+</a>
+
+----------
+
+
 <b><b>SYLLABUS:</b></b>
     <br>1. Programming Fundamentals using C++.
     <br>2. Computer System Architecture.
@@ -54,3 +63,9 @@ This application has collection of  Computer Science Lab Programs. Video Lecture
 <br>
 No permission no ads.<br>
 <b>Open source project in github</b> https://github.com/vimalcvs/ducslectures
+
+### SCREENSHOTS
+
+![Image](vimal2.png)
+
+----------
