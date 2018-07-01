@@ -66,6 +66,6 @@ No permission no ads.<br>
 
 ### SCREENSHOTS
 
-![Image](vimal2.png)
+![Image](unnamed.png)
 
 ----------
