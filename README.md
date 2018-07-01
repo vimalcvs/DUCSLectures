@@ -66,6 +66,5 @@ No permission no ads.<br>
 
 ### SCREENSHOTS
 
-![Image](unnamed.png)
-
+<img src="du1.png" alt="" width="200" height="340" /><img src="du2.png" alt="" width="200" height="340" /><img src="du3.png" alt="" width="200" height="340" /><img src="du4.png" alt="" width="200" height="340" /><img src="du5.png" alt="" width="200" height="340" /><img src="du6.png" alt="" width="200" height="340" /><img src="du7.png" alt="" width="200" height="340" />
 ----------
